@@ -1,6 +1,6 @@
 {
-  "name": "airbnb-style",
-  "version": "2.0.0",
+  "name": "sample-information",
+  "version": "2.0.1",
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
     "preinstall": "npm run install:config && npm run install:config:base",
@@ -24,7 +24,7 @@
   "keywords": [
     "style guide",
     "lint",
-    "airbnb",
+    "sample",
     "es6",
     "es2015",
     "es2016",
@@ -33,7 +33,7 @@
     "react",
     "jsx"
   ],
-  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "author": "sample author",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/airbnb/javascript/issues"
